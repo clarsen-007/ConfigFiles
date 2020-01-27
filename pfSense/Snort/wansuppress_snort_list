@@ -1,0 +1,4 @@
+## General HTTP site suppression...
+
+#(http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE
+suppress gen_id 120, sig_id 3
