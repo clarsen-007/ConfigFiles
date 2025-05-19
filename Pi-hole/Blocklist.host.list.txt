@@ -1,4 +1,4 @@
 # Collected from a few sources for my local home use....
 #
 #
-betway.co.za
+0.0.0.0 betway.co.za
