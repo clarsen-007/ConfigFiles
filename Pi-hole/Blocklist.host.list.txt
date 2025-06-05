@@ -1,7 +1,7 @@
 # Collected from a few sources for my local home use....
 #
 #
-0.0.0.0 betway.co.za
-0.0.0.0 www.betway.co.za
-0.0.0.0 roblox.com
-0.0.0.0 www.roblox.com
+127.0.0.1 betway.co.za
+127.0.0.1 www.betway.co.za
+127.0.0.1 roblox.com
+127.0.0.1 www.roblox.com
